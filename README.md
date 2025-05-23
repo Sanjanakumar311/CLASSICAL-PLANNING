@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# NAME: REVATHI K
-# REGISTER NUMBER: 212223040169
+# NAME: SANJANA K L
+# REGISTER NUMBER: 212224230241
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
