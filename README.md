@@ -1,6 +1,6 @@
 # ExpNo:10 Implementation of Classical Planning Algorithm
-# NAME: Rakesh V
-# REGISTER NUMBER: 212222110036
+# NAME: Sanjana K L
+# REGISTER NUMBER: 212224230241
 # Algorithm or Steps Involved:
 <ol>
   <li>Define the initial state</li>
